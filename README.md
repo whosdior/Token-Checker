@@ -58,6 +58,10 @@ This is a Discord Token Checker written in Go. It takes a list of tokens from a 
 ### Concurrent Execution:
 The program processes the tokens concurrently, using Goroutines and WaitGroups to handle multiple tokens at once.
 
+
+# POV
+https://streamable.com/y4s2qc
+
 ## Example Output:
 
 ```
